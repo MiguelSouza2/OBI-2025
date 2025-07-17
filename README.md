@@ -1,7 +1,7 @@
 # OBI-2025
 Minhas respostas do OBI 2025
 
-4/5 entregues
+3/4 entregues
 
 Corretas:
 Festa (100/100)
